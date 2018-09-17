@@ -1,0 +1,27 @@
+_repo: Eben-Holden-s-Last-Day-A-Fishing_52454
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacheller, Irving
+    alias: Bacheller, Addison Irving
+    birthdate: 1859
+    deathdate: 1950
+    gutenberg_agent_id: '4001'
+    url: http://www.gutenberg.org/2009/agents/4001
+    wikipedia: http://en.wikipedia.org/wiki/Irving_Bacheller
+description: ''
+gutenberg_issued: '2016-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'New York (State) -- Fiction'
+- GITenberg
+title: Eben Holden's Last Day A-Fishing
+url: http://www.gutenberg.org/ebooks/52454
